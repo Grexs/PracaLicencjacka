@@ -1,0 +1,15 @@
+Zrobione:
+ - Implementacja insert sorta
+ - Implementacja algorytmu magicznych piątek
+ - Podpięcie GoogleTesta
+
+Do zrobienia:
+ - UT do algorytmu magicznych piątek
+ - Implementacja algorytmu k-tego elementu w czasie O(n*lg(n)) oraz O(n^2)
+ - Środowisko do pomiaru złożoności algorytmów (python?)
+
+Plany:
+ - Ogólny namespace
+ - Wybór i przepięcie dokumentacji do języka/narzędzia (typu rst/LaTeX)
+
+Uwagi:
